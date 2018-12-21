@@ -2,6 +2,8 @@ body {
 	line-height: 1.5;
 	color: white;
 
+	
+	font-family: 'Lato', sans-serif;
 	background: url('../images/background.jpg');
 	background-size: cover;
 	background-position: center;
@@ -11,11 +13,12 @@ body {
 .container {
 	width: 600px;
 	margin: 40px;
-	background: black;
+	background: rgba(0,0,0,0.5);
 	padding: 15px;
 }
 
 h1 {
+	font-family: 'Rokkitt', serif;
 	font-size: 80px;
 	margin-bottom: -50px;
 }
