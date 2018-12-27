@@ -11,11 +11,13 @@ body {
 }
 
 .container {
+
 	width: 600px;
 	margin: 40px;
 	background: rgba(0,0,0,0.5);
 	padding: 15px;
-	border-radius: 50px;
+	border-radius: 10px;
+
 }
 
 h1 {
